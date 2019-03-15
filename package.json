@@ -1,0 +1,26 @@
+{
+  "name": "js-todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacgyamfi/js-todo-app.git"
+  },
+  "keywords": [
+    "todo-app",
+    "todo-app-js"
+  ],
+  "author": "isaac gyamfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacgyamfi/js-todo-app/issues"
+  },
+  "homepage": "https://github.com/isaacgyamfi/js-todo-app#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0"
+  }
+}
