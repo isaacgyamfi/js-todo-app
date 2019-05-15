@@ -33,7 +33,7 @@ addForm.addEventListener('submit', function(e) {
     li.appendChild(newTodo);
     li.appendChild(deleteBtn);
     items.appendChild(li);
-
+    items.insertBefore(li, items.childNodes[0]);
 });
 
 // hide the todo list

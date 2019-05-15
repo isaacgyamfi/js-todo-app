@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/isaacgyamfi/js-todo-app#readme",
   "dependencies": {
-    "animate.css": "^3.7.0"
+    "animate.css": "^3.7.0",
+    "bootstrap": "^4.3.1"
   }
 }
